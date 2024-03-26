@@ -1,4 +1,4 @@
-# MLflow
+# MLflow Experiments
 Getting started with mlflow experiments
 
 MLFLOW_TRACKING_URI=https://dagshub.com/pakshaljain05/MLflow.mlflow \
